@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "376644732434",
+    "firebase_url": "https://dirs-proyect.firebaseio.com",
+    "project_id": "dirs-proyect",
+    "storage_bucket": "dirs-proyect.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376644732434:android:1cb36db6602a1885013acb",
+        "android_client_info": {
+          "package_name": "com.comprameve.testfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "376644732434-f2187cj8jcroaok54sc7u97g37oilslu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByj-BAaiNx6omlFkwOISo-QwwrWcI8Iak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "376644732434-f2187cj8jcroaok54sc7u97g37oilslu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
